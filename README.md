@@ -4,6 +4,9 @@ Here I post general informations about my projects. And also I can share my conf
 
 ## Current Projects
 
+:blue_square: in progress :yellow_square: pending
+
+
 ### FPGAs
-- [LEDs Racer (in progress)](https://github.com/KerCrafter/FPGA-LEDs-Racer)
-- [CW Lambic Keyer (pending)](https://github.com/KerCrafter/FPGA-CW-lambic-keyer)
+- :blue_square: [LEDs Racer](https://github.com/KerCrafter/FPGA-LEDs-Racer)
+- :yellow_square: [CW Lambic Keyer](https://github.com/KerCrafter/FPGA-CW-lambic-keyer)
