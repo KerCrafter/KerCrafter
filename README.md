@@ -13,3 +13,6 @@ Here I post general informations about my projects. And also I can share my conf
 
 ### Adruino
 - 🟩 [OBS Camera Switcher](https://github.com/KerCrafter/obs-cam-switcher)
+
+### MicroPython
+- 🟩 [LEDs Racer](https://github.com/KerCrafter/micropython-leds-racer)
