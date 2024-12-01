@@ -2,6 +2,8 @@
 
 Here I post general informations about my projects. And also I can share my configs / scripts.
 
+Install tools `curl https://raw.githubusercontent.com/KerCrafter/KerCrafter/refs/heads/main/install.sh | bash`
+
 ## Current Projects
 
 🟩 ready :blue_square: in progress :yellow_square: pending
