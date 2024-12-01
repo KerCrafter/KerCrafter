@@ -4,6 +4,8 @@ Here I post general informations about my projects. And also I can share my conf
 
 ## Install tools
 
+[Details of tools](./docs/tools.md)
+
 **Just run** : `curl https://raw.githubusercontent.com/KerCrafter/KerCrafter/refs/heads/main/install.sh | bash`
 (tested in ubuntu)
 
