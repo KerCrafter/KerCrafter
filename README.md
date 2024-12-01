@@ -2,7 +2,10 @@
 
 Here I post general informations about my projects. And also I can share my configs / scripts.
 
-Install tools `curl https://raw.githubusercontent.com/KerCrafter/KerCrafter/refs/heads/main/install.sh | bash`
+## Install tools
+
+**Just run** : `curl https://raw.githubusercontent.com/KerCrafter/KerCrafter/refs/heads/main/install.sh | bash`
+(tested in ubuntu)
 
 ## Current Projects
 
