@@ -10,3 +10,6 @@ set tabstop=2
 set nobackup
 
 set hlsearch
+
+colorscheme one
+set background=dark
