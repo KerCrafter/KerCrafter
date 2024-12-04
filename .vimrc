@@ -15,3 +15,4 @@ colorscheme one
 set background=dark
 
 set wildmenu
+set wildmode=list:longest

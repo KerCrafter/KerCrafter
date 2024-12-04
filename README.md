@@ -11,7 +11,7 @@ Here I post general informations about my projects. And also I can share my conf
 
 ## Current Projects
 
-🟩 ready :blue_square: in progress :yellow_square: pending
+:green_square: ready :blue_square: in progress :yellow_square: pending
 
 
 ### FPGAs
@@ -19,7 +19,7 @@ Here I post general informations about my projects. And also I can share my conf
 - :yellow_square: [CW Lambic Keyer](https://github.com/KerCrafter/FPGA-CW-lambic-keyer)
 
 ### Adruino
-- 🟩 [OBS Camera Switcher](https://github.com/KerCrafter/obs-cam-switcher)
+- :green_square: [OBS Camera Switcher](https://github.com/KerCrafter/obs-cam-switcher)
 
 ### MicroPython
-- 🟩 [LEDs Racer](https://github.com/KerCrafter/micropython-leds-racer)
+- :green_square: [LEDs Racer](https://github.com/KerCrafter/micropython-leds-racer)
