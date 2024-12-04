@@ -1,3 +1,4 @@
 alias gca='git status && git diff && echo "---- Press ENTER if you accept these changes (else Ctrl+C)" && read && git add --all && git commit && git push'
 alias vim='vim -u ~/.kercrafter_tools/.vimrc'
 alias v='vim'
+alias kcup='cd ~/.kercrafter_tools/ && sh install.sh'
