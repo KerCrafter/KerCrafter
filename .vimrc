@@ -13,3 +13,5 @@ set hlsearch
 
 colorscheme one
 set background=dark
+
+set wildmenu
