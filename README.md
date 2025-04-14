@@ -13,7 +13,7 @@ Here I post general informations about my projects. And also I can share my conf
 
 :green_square: ready :blue_square: in progress :yellow_square: pending
 
-- :blue_square: [Stream Deck Wifi](https://github.com/KerCrafter/streamdeck-wifi)
+- :blue_square: [Stream Deck Wifi](https://github.com/KerCrafter/Stream-Deck-Wifi)
 
 ### FPGAs
 - :blue_square: [LEDs Racer](https://github.com/KerCrafter/FPGA-LEDs-Racer)
