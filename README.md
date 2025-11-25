@@ -15,6 +15,10 @@ Here I post general informations about my projects. And also I can share my conf
 
 - :blue_square: [Stream Deck Wifi](https://github.com/KerCrafter/Stream-Deck-Wifi)
 
+| Project Name | Platforms | Status |
+| -- | -- | -- |
+| LEDs Racer | [Arduino](https://github.com/KerCrafter/micropython-leds-racer) / [FPGA (DE0 Nano)](https://github.com/KerCrafter/FPGA-LEDs-Racer) / Tiny Tapeout Chips | Ready |
+
 ### FPGAs
 - :green_square: [LEDs Racer](https://github.com/KerCrafter/FPGA-LEDs-Racer)
 - :yellow_square: [CW Lambic Keyer](https://github.com/KerCrafter/FPGA-CW-lambic-keyer)
