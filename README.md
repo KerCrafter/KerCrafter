@@ -17,7 +17,7 @@ Here I post general informations about my projects. And also I can share my conf
 
 | Project Name | Platforms | Status |
 | -- | -- | -- |
-| LEDs Racer | [Arduino](https://github.com/KerCrafter/micropython-leds-racer) / [FPGA (DE0 Nano)](https://github.com/KerCrafter/FPGA-LEDs-Racer) / Tiny Tapeout Chips | Ready |
+| LEDs Racer | [Arduino (MicroPython)](https://github.com/KerCrafter/micropython-leds-racer)<br/>[FPGA (DE0 Nano)](https://github.com/KerCrafter/FPGA-LEDs-Racer)<br />Tiny Tapeout Chips : [TTSKY25b](https://github.com/KerCrafter/LEDs-Racer-TinyTapeout-SKY25b) [TTGF0p2](https://github.com/KerCrafter/LEDs-Racer-TinyTapeout-TTGF0p2) | Ready |
 
 ### FPGAs
 - :green_square: [LEDs Racer](https://github.com/KerCrafter/FPGA-LEDs-Racer)
